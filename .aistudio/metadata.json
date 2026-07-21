@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-21T07:46:15.146Z",
+  "generatedAt": "2026-07-21T07:46:54.438Z",
   "repo": {
     "connectorId": 21,
     "repoSlug": "shha-lw/git-demo",
@@ -18,6 +18,13 @@
       "name": "New test case",
       "kind": "test-case",
       "repoPath": "TC-1-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 4698,
+      "displayId": "TS-1",
+      "name": "New typescript",
+      "kind": "typescript",
+      "repoPath": "TS-1-New-typescript.ts"
     }
   ],
   "files": [
@@ -27,6 +34,14 @@
       "displayId": "TC-1",
       "name": "New test case",
       "repoPath": "TC-1-New-test-case.spec.ts",
+      "parentAssetId": 4696
+    },
+    {
+      "assetId": 4698,
+      "assetKind": "typescript",
+      "displayId": "TS-1",
+      "name": "New typescript",
+      "repoPath": "TS-1-New-typescript.ts",
       "parentAssetId": 4696
     }
   ]

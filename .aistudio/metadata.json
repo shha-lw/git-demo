@@ -1,48 +1,33 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-21T08:20:02.761Z",
+  "generatedAt": "2026-07-22T07:47:32.236Z",
   "repo": {
-    "connectorId": 21,
+    "connectorId": 14,
     "repoSlug": "shha-lw/git-demo",
     "baseBranch": "main"
   },
   "team": {
-    "assetId": 4696,
+    "assetId": 184,
     "displayId": "TM-1",
-    "name": "Git demo"
+    "name": "git-test-test-test"
   },
   "tree": [
     {
-      "assetId": 4697,
-      "displayId": "TC-1",
+      "assetId": 189,
+      "displayId": "TC-8",
       "name": "New test case",
       "kind": "test-case",
-      "repoPath": "TC-1-New-test-case.spec.ts"
-    },
-    {
-      "assetId": 4698,
-      "displayId": "TS-1",
-      "name": "New typescript",
-      "kind": "typescript",
-      "repoPath": "TS-1-New-typescript.ts"
+      "repoPath": "TC-8-New-test-case.spec.ts"
     }
   ],
   "files": [
     {
-      "assetId": 4697,
+      "assetId": 189,
       "assetKind": "test-case",
-      "displayId": "TC-1",
+      "displayId": "TC-8",
       "name": "New test case",
-      "repoPath": "TC-1-New-test-case.spec.ts",
-      "parentAssetId": 4696
-    },
-    {
-      "assetId": 4698,
-      "assetKind": "typescript",
-      "displayId": "TS-1",
-      "name": "New typescript",
-      "repoPath": "TS-1-New-typescript.ts",
-      "parentAssetId": 4696
+      "repoPath": "TC-8-New-test-case.spec.ts",
+      "parentAssetId": 184
     }
   ]
 }

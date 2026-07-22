@@ -13,3 +13,6 @@ leapwork.configuration({
 // hehehehe
 //sadfadsf
 //349234729843
+
+console.log("new chanages")
+console.log("new chanages")

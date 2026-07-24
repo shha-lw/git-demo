@@ -10,3 +10,5 @@ leapwork.configuration({
       ?? leapwork.workspace.settings.get("enableSelfHeal")) !== "false",
 });
 console.log("hello")
+
+console.log("hello-2")

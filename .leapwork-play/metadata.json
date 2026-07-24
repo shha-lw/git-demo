@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-24T11:13:20.044Z",
+  "repo": {
+    "connectorId": 15,
+    "repoSlug": "shha-lw/git-demo",
+    "baseBranch": "main"
+  },
+  "team": {
+    "assetId": 205,
+    "displayId": "TM-1",
+    "name": "git-commit-strategy"
+  },
+  "tree": [
+    {
+      "assetId": 206,
+      "displayId": "TC-1",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-1-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 207,
+      "displayId": "TC-2",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-2-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 208,
+      "displayId": "TC-3",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-3-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 209,
+      "displayId": "TC-4",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-4-New-test-case.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 206,
+      "assetKind": "test-case",
+      "displayId": "TC-1",
+      "name": "New test case",
+      "repoPath": "TC-1-New-test-case.spec.ts",
+      "parentAssetId": 205
+    },
+    {
+      "assetId": 207,
+      "assetKind": "test-case",
+      "displayId": "TC-2",
+      "name": "New test case",
+      "repoPath": "TC-2-New-test-case.spec.ts",
+      "parentAssetId": 205
+    },
+    {
+      "assetId": 208,
+      "assetKind": "test-case",
+      "displayId": "TC-3",
+      "name": "New test case",
+      "repoPath": "TC-3-New-test-case.spec.ts",
+      "parentAssetId": 205
+    },
+    {
+      "assetId": 209,
+      "assetKind": "test-case",
+      "displayId": "TC-4",
+      "name": "New test case",
+      "repoPath": "TC-4-New-test-case.spec.ts",
+      "parentAssetId": 205
+    }
+  ]
+}

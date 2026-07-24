@@ -1,10 +1,10 @@
-console.log("hello")
+console.log("remote")
 
 
-console.log("hello")
-console.log("hello")
-console.log("hello")
+console.log("remote")
+console.log("remote")
+console.log("remote")
 
-console.log("hello")
-console.log("hello")
-console.log("hello")
+console.log("remote")
+console.log("remote")
+console.log("remote")

@@ -1,0 +1,4 @@
+{
+  "agent_definition": "//hello",
+  "typescript_code": "console.log(\"hello\")"
+}

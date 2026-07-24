@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-24T11:13:20.044Z",
+  "generatedAt": "2026-07-24T11:17:39.979Z",
   "repo": {
     "connectorId": 15,
     "repoSlug": "shha-lw/git-demo",
@@ -12,6 +12,13 @@
     "name": "git-commit-strategy"
   },
   "tree": [
+    {
+      "assetId": 210,
+      "displayId": "AG-1",
+      "name": "New agent",
+      "kind": "agent",
+      "repoPath": "AG-1-New-agent.agent.json"
+    },
     {
       "assetId": 206,
       "displayId": "TC-1",
@@ -42,6 +49,14 @@
     }
   ],
   "files": [
+    {
+      "assetId": 210,
+      "assetKind": "agent",
+      "displayId": "AG-1",
+      "name": "New agent",
+      "repoPath": "AG-1-New-agent.agent.json",
+      "parentAssetId": 205
+    },
     {
       "assetId": 206,
       "assetKind": "test-case",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-24T11:21:46.438Z",
+  "generatedAt": "2026-07-27T06:18:40.675Z",
   "repo": {
     "connectorId": 15,
     "repoSlug": "shha-lw/git-demo",
@@ -46,6 +46,13 @@
       "name": "New test case",
       "kind": "test-case",
       "repoPath": "TC-4-New-test-case.spec.ts"
+    },
+    {
+      "assetId": 212,
+      "displayId": "TC-5",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-5-New-test-case.spec.ts"
     },
     {
       "assetId": 211,
@@ -94,6 +101,14 @@
       "displayId": "TC-4",
       "name": "New test case",
       "repoPath": "TC-4-New-test-case.spec.ts",
+      "parentAssetId": 205
+    },
+    {
+      "assetId": 212,
+      "assetKind": "test-case",
+      "displayId": "TC-5",
+      "name": "New test case",
+      "repoPath": "TC-5-New-test-case.spec.ts",
       "parentAssetId": 205
     },
     {
